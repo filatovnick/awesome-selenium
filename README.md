@@ -82,6 +82,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Geb](http://www.gebish.org/) - It can be used for scripting, scraping and general automation — or equally as a functional/web/acceptance testing solution via integration with testing frameworks such as Spock, JUnit & TestNG.
 
+#### Dart
+
+- [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server. 
+
 ### CSS Regression Testing
 
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
@@ -101,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Kubernetes
 - [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 - [Moon](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
+- [Callisto](https://github.com/wrike/callisto) - An open-source tool to launch browsers in Kubernetes. Separate is created for each selenium session.
 
 ### Driver
 
@@ -152,6 +157,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Browserstack](https://www.browserstack.com/) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
 - [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
 - [Aerokube Browsers](https://browsers.aerokube.com) - Lightning fast online Selenium testing platform with unlimited billing plans and reasonable pricing.
+- [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
 
 ### Device Farms
 
